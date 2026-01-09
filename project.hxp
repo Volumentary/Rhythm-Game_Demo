@@ -44,8 +44,8 @@ class Project extends HXProject
 
 	function configWindow()
 	{
-		window.width = 1280;
-		window.height = 720;
+		window.width = 800;
+		window.height = 600;
 
 		window.background = 0x00000;
 

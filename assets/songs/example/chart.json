@@ -1,0 +1,12 @@
+{
+	"notes":
+	[
+		{"time": 1000, "direction": 0},
+		{"time": 2000, "direction": 1},
+		{"time": 3000, "direction": 2},
+		{"time": 4000, "direction": 3}
+	],
+
+	"skin": "default",
+	"speed": 2
+}
